@@ -23,14 +23,14 @@
     - DELETE: Delete data on server
 
 - Slack
-    - ![](01)
-    - ![](02)
-    - ![](03)
+    - <img width=600 src="./imageFiles/01.jpg">
+    - <img width=600 src="./imageFiles/02.jpg">
+    - <img width=600 src="./imageFiles/03.jpg">
 
 - CURL
     - A library to transfer data from the commandline or script
-    - ![](04)
-    - ![](05)
+    - <img width=600 src="./imageFiles/04.jpg">
+    - <img width=600 src="./imageFiles/05.jpg">
 
 <br>
 <br>
@@ -55,7 +55,7 @@
     - URLSessionUploadTask
         - A URL session task that uploads data to the network in a request body.
 
-![](06)
+<img src="./imageFiles/06.png">
 
 ```swift
 // https://developer.apple.com/documentation/foundation/url_loading_system/fetching_website_data_into_memory
@@ -107,7 +107,7 @@ sendHTTPRequest()
 RunLoop.current.run(until: .now + 1)
 ```
 
-![](07)
+<img src="./imageFiles/07.jpg">
 
 <br>
 <br>
@@ -163,7 +163,7 @@ sendHTTPRequest()
 RunLoop.current.run(until: .now + 1)
 ```
  
-![](08)
+<img src="./imageFiles/08.jpg">
 
 <br>
 <br>
