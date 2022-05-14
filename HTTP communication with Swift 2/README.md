@@ -18,11 +18,11 @@
 
 - Postech API
     - [[포스텍 복지회]](https://dining.postech.ac.kr/weekly-menu/)
-    - ![](01)
-    - ![](02)
-    - ![](03)
-    - ![](04)
-    - ![](05)
+    - <img width=600 src="./imageFiles/01.jpg">
+    - <img width=600 src="./imageFiles/02.jpg">
+    - <img width=600 src="./imageFiles/03.jpg">
+    - <img width=600 src="./imageFiles/04.jpg">
+    - <img width=600 src="./imageFiles/05.jpg">
 
 <br>
 <br>
@@ -176,7 +176,7 @@ fetchURL("https://food.podac.poapper.com/v1/menus/2022/05/16") { result in
 RunLoop.current.run(until: .now + 1)
 ```
 
-![](06)
+<img src="./imageFiles/06.jpg">
 
 <br>
 <br>
@@ -185,7 +185,7 @@ RunLoop.current.run(until: .now + 1)
 
 - CustonStringConvertable
     - A type with a customized textual representation
-    - ![](07)
+    - <img src="./imageFiles/07.jpg">
 
 ```swift
 struct Menu: Codable, CustomStringConvertible {
@@ -219,8 +219,8 @@ struct Food: Codable, CustomStringConvertible {
 ```
 
 - Run Swift app from terminal
-    - ![](08)
-    - ![](09)
+    - <img width=600 src="./imageFiles/08.jpg">
+    - <img width=600 src="./imageFiles/09.jpg">
 
 
 
