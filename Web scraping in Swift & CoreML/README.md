@@ -34,8 +34,8 @@
 
 ## Swift Package Manager
 
-<img src="./imageFiles/01.jpg">
-<img src="./imageFiles/02.jpg">
+<img width=600 src="./imageFiles/01.jpg">
+<img width=600 src="./imageFiles/02.jpg">
 
 <br>
 <br>
@@ -106,7 +106,7 @@ fetchGoogleImageURLs(searchWord: "spider man") { result in
 }
 ```
 
-<img src="./imageFiles/03.jpg">
+<img width=600 src="./imageFiles/03.jpg">
 
 <br>
 <br>
@@ -279,10 +279,10 @@ class FileSaveManager: NSObject, URLSessionDownloadDelegate {
 
 ## CoreML
 
-<img src="./imageFiles/05.jpg">
-<img src="./imageFiles/06.jpg">
-<img src="./imageFiles/07.jpg">
-<img src="./imageFiles/08.jpg">
+<img width=600 src="./imageFiles/05.jpg">
+<img width=600 src="./imageFiles/06.jpg">
+<img width=600 src="./imageFiles/07.jpg">
+<img width=600 src="./imageFiles/08.jpg">
 
 <br>
 <br>
@@ -291,4 +291,4 @@ class FileSaveManager: NSObject, URLSessionDownloadDelegate {
 
 - [Classifying Images with Vision and Core ML](https://developer.apple.com/documentation/vision/classifying_images_with_vision_and_core_ml/)
 
-<img src="./imageFiles/09.jpg">
+<img width=600 src="./imageFiles/09.jpg">
