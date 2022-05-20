@@ -46,6 +46,11 @@
     - Standard markup language for documents designed to be displayed in a web browser
     - [[w3schools]](https://www.w3schools.com/html/tryit.asp?filename=tryhtml_default)
 
+- Robot.txt
+    - A robots.txt file tells search engine crawlers which URLs the crawler can access on your site
+    - This is used mainly to avoid overloading your site with requests  
+    - [[Introduction to robots.txt]](https://developers.google.com/search/docs/advanced/robots/intro?safari_group=5)
+
 - SwiftSoup
     - [[SwiftSoup]](https://github.com/scinfu/SwiftSoup)
     - a pure Swift library, cross-platform, for working with real-world HTML
