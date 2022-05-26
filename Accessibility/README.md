@@ -1,8 +1,6 @@
 # Accessibility
 
-<div align="center">
 <img src="https://developer.apple.com/assets/elements/icons/accessibility/accessibility-128x128.png">
-</div>
 
 - Approximately **one in seven people worldwide** have a disability that affects the way they interact with the world and their devices.
 
@@ -10,7 +8,7 @@
 
 ## Accessibility, not just for people with disabilities
 
-<img src="https://cf.festa.io/img/2021-3-19/ce5be971-b96c-457c-a40a-2643c0c47d06.png">
+<img width=600 src="https://i.imgur.com/fOHrYOg.jpg">
 
 <br>
 
